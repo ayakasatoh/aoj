@@ -1,3 +1,4 @@
+# aoj_itp1_10_d.py
 from math import fabs, sqrt
 
 n = int(input())
